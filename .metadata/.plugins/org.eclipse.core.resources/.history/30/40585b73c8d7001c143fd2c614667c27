@@ -1,0 +1,19 @@
+package com.dio;
+
+public class PrimeiroPrograma {
+
+	public static void main(String[] args) {
+		System.out.println("Olá mundo");
+		int A = 1;
+		int B = 1;
+		int C[] = {1, 2 ,3, 4, 5, 6, 7, 8, 9, 10};
+		String Texto = "1 2 3 4";
+		System.out.println(""+(A + B));
+		System.out.println(""+Texto);
+		for(int  i = 0, i < 10; i++){
+			System.out.println(""+C[i]);
+		}
+	}
+
+}
+

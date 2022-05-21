@@ -1,0 +1,14 @@
+package com.dio;
+
+public class PrimeiroPrograma {
+
+	public static void main(String[] args) {
+		System.out.println("Olá mundo");
+		int A = 1;
+		int B = 1;
+		String Texto = "1 2 3 4";
+		System.out.println(""+(A + B));
+		System.out.println(""+Texto);
+	}
+
+}
